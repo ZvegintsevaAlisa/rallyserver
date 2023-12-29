@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RallyServer", "RallyServer.csproj", "{677C58EC-2CDE-4280-A10C-94C002D6D4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{677C58EC-2CDE-4280-A10C-94C002D6D4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677C58EC-2CDE-4280-A10C-94C002D6D4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677C58EC-2CDE-4280-A10C-94C002D6D4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677C58EC-2CDE-4280-A10C-94C002D6D4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF3CF07-9A5D-4410-8BD4-68D9E1284DE7}
+	EndGlobalSection
+EndGlobal

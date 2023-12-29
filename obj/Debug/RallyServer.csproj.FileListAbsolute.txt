@@ -1,0 +1,8 @@
+C:\Users\alisa\Downloads\rally2\RallyServer\obj\Debug\RallyServer.csproj.AssemblyReference.cache
+C:\Users\alisa\Downloads\rally2\RallyServer\obj\Debug\RallyServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\alisa\Downloads\rally2\RallyServer\obj\Debug\RallyServer.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Downloads\rally2\RallyServer\bin\Debug\RallyServer.exe.config
+C:\Users\alisa\Downloads\rally2\RallyServer\bin\Debug\RallyServer.exe
+C:\Users\alisa\Downloads\rally2\RallyServer\bin\Debug\RallyServer.pdb
+C:\Users\alisa\Downloads\rally2\RallyServer\obj\Debug\RallyServer.exe
+C:\Users\alisa\Downloads\rally2\RallyServer\obj\Debug\RallyServer.pdb
